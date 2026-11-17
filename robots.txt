@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationauburn.com/sitemap.xml
